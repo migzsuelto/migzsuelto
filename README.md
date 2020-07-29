@@ -23,4 +23,4 @@ I will be releasing my blog which will include topics that includes
 inspirational thoughts, financials, food, music, lifestyle, travel
 tips, photography, and more. so watch out for it.
 
-You can reach me anywhere @migzsuelto
+You can reach me anywhere **@migzsuelto**
