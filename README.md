@@ -13,7 +13,7 @@ front-end and mobile work. Here are the tools I use regularly.
 * Slack
 * VSCode
 
-Other interests
+## Other interests
 
 When I’m not ~~working in a coffeeshop or~~ doing any
 physical activities, ~~I go traveling~~ I stay home. Food, [music](https://open.spotify.com/user/migzsuelto?si=l-8C17WJQzigGaXq22xC-w), and art are my interest as well. I'm currently learning stock trading in the local market.
